@@ -1,0 +1,44 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/actionIcon",
+      "Name": "SpotifyAction",
+      "States": [
+        {
+          "Image": "images/actionDefaultImage",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "The first action for the Spotify Stream Deck plugin",
+      "UUID": "tv.tavernfire.spotify.DefaultPluginAction"
+    }
+  ],
+	"Category": "Spotify [TavernFire]",
+	"CategoryIcon": "images/category/categoryIcon",
+	"Disabled":  false,
+	"Author": "Tavernfire - RyanTheLeach",
+	"CodePathWin": "tv.tavernfire.spotify.exe",
+	"CodePathMac":  "tv.tavernfire.spotify",
+  "PropertyInspectorPath": "property_inspector/property_inspector.html",
+  "Description": "Cross-Platform Spotify integration for Stream Deck.",
+  "Name": "Spotify",
+  "Icon": "images/pluginIcon",
+  "URL": "https://spotify.tavernfire.tv/",
+  "Version": "1.0",
+	"SDKVersion": 2,
+	"Software": {
+		"MinimumVersion":  "4.1"
+	},
+	"OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ]
+}
