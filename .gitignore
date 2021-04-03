@@ -1,0 +1,14 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.tv.tavernfire.spotify.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\ryant\RiderProjects\tv.tavernfire.spotify\.idea\.idea.tv.tavernfire.spotify.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/bin/
